@@ -1,4 +1,4 @@
-# Hi, I'm Madhushree Raghavendra 👋
+# Hi, I'm Madhushree R 👋
 
 ### Full Stack Developer | Java | MERN | React.js
 
